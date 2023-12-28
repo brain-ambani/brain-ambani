@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://dev-brain.onrender.com)
+- 👨‍💻 All of my projects are available on my [portfolio](https://dev-brain.onrender.com)
 
 - 💬 Ask me about **MERN**
 
