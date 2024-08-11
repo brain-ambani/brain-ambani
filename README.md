@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/brain_ambani" target="blank"><img src="https://img.shields.io/twitter/follow/brain_ambani?logo=twitter&style=for-the-badge" alt="brain_ambani" /></a> </p>
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently building **monkresume**
 
 - 👨‍💻 All of my projects are available on my [portfolio](https://dev-brain.onrender.com)
 
