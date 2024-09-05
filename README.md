@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently building **monkresume**
 
-- 👨‍💻 All of my projects are available on my [portfolio](https://dev-brain.onrender.com)
+- 👨‍💻 All of my projects are available on my [portfolio](https://brain-website-peach.vercel.app/)
 
 - 💬 Ask me about **MERN**
 
