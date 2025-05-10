@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/brain_ambani" target="blank"><img src="https://img.shields.io/twitter/follow/brain_ambani?logo=twitter&style=for-the-badge" alt="brain_ambani" /></a> </p>
 
-- 🌱 I’m currently building **monkresume**
+- 🌱 I’m currently building **listMint**
 
-- 👨‍💻 All of my projects are available on my [portfolio](https://brain-website-peach.vercel.app/)
-
-- 💬 Ask me about **MERN**
+- 👨‍💻 All of my projects are available on my [portfolio](https://brainambani.com)
 
 - 📫 How to reach me **brainambani1@gmail.com**
 
