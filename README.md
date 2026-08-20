@@ -1,60 +1,100 @@
 <div align="center">
 
-<img src="./assets/hero.png" width="100%" />
+<img src="./banner.png" width="100%" alt="Brain Ambani — Full-Stack Product Engineer" />
 
-<br />
+<br><br>
 
-## Brain Ambani
-
-**Full-stack product engineer building at Arktrim.**
-
-Product · Systems · Architecture
-
-[Arktrim](https://arktrim.com) · [Portfolio](https://brainambani.com) · [X](https://x.com/brain_ambani)
+<table>
+<tr>
+<td align="center">
+<a href="https://arktrim.com"><strong>↗ ARKTRIM</strong></a>
+</td>
+<td align="center">
+<a href="https://brainambani.com"><strong>◉ PORTFOLIO</strong></a>
+</td>
+<td align="center">
+<a href="https://x.com/brain_ambani"><strong>𝕏 X</strong></a>
+</td>
+<td align="center">
+<a href="mailto:brainambani1@gmail.com"><strong>✉ EMAIL</strong></a>
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<br>
 
-### Building
+## Building
 
-**Arktrim Commerce**  
-Commerce infrastructure for Kenyan retailers.
+<table>
+<tr>
 
-**HQmerce**  
+<td width="33%" valign="top">
+
+### Arktrim Commerce
+
+E-commerce infrastructure for Kenyan retailers.
+
+<sub>Next.js · NestJS · PostgreSQL</sub>
+
+</td>
+
+<td width="33%" valign="top">
+
+### HQmerce
+
 POS and business operating software for SMEs.
 
-**Klosr**  
+<sub>Next.js · TypeScript · PostgreSQL</sub>
+
+</td>
+
+<td width="33%" valign="top">
+
+### Klosr
+
 SaaS for proposal visibility and sales follow-up.
 
----
+<sub>Next.js · TypeScript · PostgreSQL</sub>
 
-### Focus
+</td>
 
-`Product Engineering` · `System Design` · `SaaS` · `E-commerce` · `Business Systems`
+</tr>
+</table>
 
----
+<br>
 
-### Stack
+## Focus
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=typescript,nextjs,react,tailwind" />
-
-<br />
-
-<img src="https://skillicons.dev/icons?i=nestjs,express,postgresql,prisma" />
-
-<br />
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,cloudflare" />
+**Product Engineering**  · 
+**System Design**  · 
+**SaaS**  · 
+**E-commerce**  · 
+**Business Systems**
 
 </div>
 
----
+<br>
+
+## Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=brain-ambani&show_icons=true&hide_border=true&rank_icon=github" />
+<img src="https://skillicons.dev/icons?i=typescript,nextjs,react,tailwind,nestjs,express,postgresql,prisma,docker,kubernetes,linux,git,github,cloudflare" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<sub>Building useful software, one system at a time.</sub>
+
+<br>
+
+<sub>Nairobi, Kenya 🇰🇪</sub>
 
 </div>
