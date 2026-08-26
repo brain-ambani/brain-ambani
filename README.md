@@ -13,7 +13,7 @@
 <a href="https://brainambani.com"><strong>◉ PORTFOLIO</strong></a>
 </td>
 <td align="center">
-<a href="https://x.com/brain_ambani"><strong>𝕏 X</strong></a>
+<a href="https://x.com/brain_kraft"><strong>𝕏 X</strong></a>
 </td>
 <td align="center">
 <a href="mailto:brainambani1@gmail.com"><strong>✉ EMAIL</strong></a>
