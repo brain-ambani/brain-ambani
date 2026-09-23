@@ -54,7 +54,7 @@ POS and business operating software for SMEs.
 
 ### Klosr
 
-SaaS for proposal visibility and sales follow-up.
+SaaS for proposal visibility & sales follow-up.
 
 <sub>Next.js · TypeScript · PostgreSQL</sub>
 
