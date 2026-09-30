@@ -36,7 +36,7 @@
 
 E-commerce infrastructure for Kenyan retailers.
 
-<sub>Next.js · NestJS · PostgreSQL</sub>
+<sub>Next.js | NestJS | PostgreSQL</sub>
 
 </td>
 
