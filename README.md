@@ -46,7 +46,7 @@ E-commerce infrastructure for Kenyan retailers.
 
 POS and business operating software for SMEs.
 
-<sub>Next.js · TypeScript · PostgreSQL</sub>
+<sub>Next.js | TypeScript | PostgreSQL</sub>
 
 </td>
 
